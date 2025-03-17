@@ -1,6 +1,6 @@
 # 🧪 Potion or Poison? 🔮
 
-**Honour’s Game Development Project**
+**Honour’s Game Development Project**  
 **CSC4027Z - Games Design Project**  
 Developed by: 
 - Imaan Sayed (SYDIMA002)  
