@@ -9,7 +9,7 @@ Developed by:
 
 🎮 **Final Build:** [Download Here](https://drive.google.com/file/d/1DgnxPO516QYFZjbB3WLDto5Fvv3M0C-c/view?usp=sharing)  
 📂 **Raw Project Files:** [Download Here](https://drive.google.com/file/d/1e4Cq5ZpTG6FKoSErK3ci4fmNGXy-KagL/view?usp=sharing)  
-☁️ **Unity Version Control:** [Unity Cloud](https://cloud.unity.com/home/organizations/11270516504413/plastic-scm/organizations/unity_8DA4EE149224BDE6CEB9/repositories/GameDevProject)  
+☁️ **Unity Version Control:** [View Here](https://cloud.unity.com/home/organizations/11270516504413/plastic-scm/organizations/unity_8DA4EE149224BDE6CEB9/repositories/GameDevProject)  
 
 ---
 
@@ -28,8 +28,8 @@ As an apprentice potion-maker in the **Order of Royal Sorcerers**, you must prov
 ---
 
 ## 🚀 How to Play  
-1. **Download** the final build from [here](https://drive.google.com/file/d/1DgnxPO516QYFZjbB3WLDto5Fvv3M0C-c/view?usp=sharing) or the `PotionOrPoison_FinalBuild` folder.  
-3. **Run** the compiled `.exe` file.  
+1. **Download** the final build from [here](https://drive.google.com/file/d/1DgnxPO516QYFZjbB3WLDto5Fvv3M0C-c/view?usp=sharing), or the `PotionOrPoison_FinalBuild` folder in this repository.
+3. **Run** the compiled `Potion or Poison.exe` file.  
 4. **Follow** the in-game instructions to mix potions, evaluate requests, and make life-or-death decisions.  
 
 ---
