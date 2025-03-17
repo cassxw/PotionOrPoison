@@ -22,7 +22,7 @@ As an apprentice potion-maker in the **Order of Royal Sorcerers**, you must prov
 
 ## 🛠️ Tech Stack  
 - **Engine:** Unity (C#)
-- **Version Control:** Git, Unity Plastic SCM  
+- **Version Control:** Git, Unity Version Control 
 - **Development Tools:** Visual Studio, Unity Editor  
 
 ---
@@ -36,19 +36,23 @@ As an apprentice potion-maker in the **Order of Royal Sorcerers**, you must prov
 
 ## 🔥 Key Features  
 - **Potion Crafting & Alchemy** – Experiment with ingredients to brew the perfect potion.  
+- **Cursor as Hand Mechanic** – The player's cursor transforms into their hand, allowing for an intuitive **drag-and-drop system** for ingredients and potion delivery in their shop.  
 - **Choice-Based Narrative** – Your decisions impact the kingdom's fate!  
 - **Deduction Mechanics** – Analyse customer requests and uncover hidden threats.  
 - **Multiple Endings** – Your choices shape the story, leading to different outcomes.  
+- **Credits & Help Menu** – A dedicated menu screen provides credits and guidance for new players. 
 
 ---
 
 ## 📖 Development Insights  
 This game was developed as part of an **Honours-level Game Development course**. The deduction mechanics were designed to create **moral dilemmas** while keeping gameplay engaging and immersive.
 
-### 📂 Design & Technical Documents  
-- 📜 **[Game Design Document (GDD)]**  
-- 📜 **[Technical Design Document (TDD)]**  
-- 📜 **[Pitch Document]**  
+### 📂 Project Directory Structure  
+- 📜 `PoP_Pitch.pdf` – Initial game pitch document.  
+- 📜 `Game Design Document (GDD) - Potion or Poison.pdf` – Comprehensive game design details.  
+- 📜 `Technical Design Document (TDD) - Potion or Poison.pdf` – Technical breakdown of implementation.  
+- `PotionOrPoison_Build` – Holds the **compiled .exe**. Download this folder if you only want to play the game.  
+- `PotionOrPoison_RawProject` – Holds the **raw Unity project files**, for those who want to view or custom compile in the Unity Editor.
 
 ---
 
