@@ -1,6 +1,6 @@
 # 🧪 Potion or Poison? 🔮
 
-**Honour’s Game Development Project** 🎮
+**Honour’s Game Development Project**
 **CSC4027Z - Games Design Project**  
 Developed by: 
 - Imaan Sayed (SYDIMA002)  
@@ -8,7 +8,7 @@ Developed by:
 - Cassandra Wallace (WLLCAS004)  
 
 🎮 **Final Build:** [Download Here](https://drive.google.com/file/d/1DgnxPO516QYFZjbB3WLDto5Fvv3M0C-c/view?usp=sharing)  
-📂 **Raw Project Files:** [Download Here](https://drive.google.com/file/d/1e4Cq5ZpTG6FKoSErK3ci4fmNGXy-KagL/view?usp=sharing) (Holds the **raw Unity project files**, for those who want to view or custom compile in Unity Editor)
+📂 **Raw Unity Project Files:** [Download Here](https://drive.google.com/file/d/1e4Cq5ZpTG6FKoSErK3ci4fmNGXy-KagL/view?usp=sharing), for those who want to view or custom compile in Unity Editor.
 ☁️ **Unity Version Control:** [View Here](https://cloud.unity.com/home/organizations/11270516504413/plastic-scm/organizations/unity_8DA4EE149224BDE6CEB9/repositories/GameDevProject)  
 
 ---
