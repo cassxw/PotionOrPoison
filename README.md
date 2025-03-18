@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/411330fa-2e03-45bc-bb58-200b4611b68b)# 🧪 Potion or Poison? 🌞
+# 🧪 Potion or Poison? 🌞
 
 **Honour’s Game Development Project**  
 **CSC4027Z - Games Design Project**  
@@ -27,6 +27,7 @@ Here are some in-game screenshots showcasing the UI, gameplay mechanics, and ove
 ![image](https://github.com/user-attachments/assets/ed2d0922-a277-4ed1-9b4b-57f5b1bb7078)
 ![image](https://github.com/user-attachments/assets/3c0d0178-7037-442f-b372-bcbc30af6def)
 ![image](https://github.com/user-attachments/assets/a0136293-a3e1-4ae1-a69c-5baec80e4e36)
+![image](https://github.com/user-attachments/assets/411330fa-2e03-45bc-bb58-200b4611b68b)
 
 ---
 
