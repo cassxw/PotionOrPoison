@@ -1,4 +1,4 @@
-# 🧪 Potion or Poison? 🌞
+# 🧪 Potion or Poison? 🔮
 
 **Honour’s Game Development Project**  
 **CSC4027Z - Games Design Project**  
