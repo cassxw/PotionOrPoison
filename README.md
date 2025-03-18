@@ -72,7 +72,8 @@ This game was developed as part of an **Honours-level Game Development course**.
 - 📝 `PoP_Pitch.pdf` – Initial game pitch document.  
 - 📝 `Game Design Document (GDD) - Potion or Poison.pdf` – Comprehensive game design details.  
 - 📝 `Technical Design Document (TDD) - Potion or Poison.pdf` – Technical breakdown of implementation.  
-- 📂 `PotionOrPoison_Build.zip` – Contains the **compiled .exe**. Download this if you only want to play the game.  
+- 📂 `PotionOrPoison_Build` – Contains the **compiled .exe**. Download this folder if you only want to play the game.  
+- 📂 `Assets` – Includes folder containing the `Scenes` and `Scripts`, included in the raw project files accessible [here](https://drive.google.com/file/d/1e4Cq5ZpTG6FKoSErK3ci4fmNGXy-KagL/view?usp=sharing).
 
 ---
 
