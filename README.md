@@ -39,14 +39,14 @@ Here are some in-game screenshots showcasing the UI, gameplay mechanics, and ove
 
 ## 🚀 How to Install & Play  
 ### Option 1: Download and Play (Recommended)  
-1. **Download** the latest build from [here](https://drive.google.com/file/d/1DgnxPO516QYFZjbB3WLDto5Fvv3M0C-c/view?usp=sharing) or download the `PotionOrPoison_Build.zip` file from this repository.  
-2. **Extract** the `PotionOrPoison_Build.zip` file to your preferred directory.  
+1. **Download** the latest build from [here](https://drive.google.com/file/d/1DgnxPO516QYFZjbB3WLDto5Fvv3M0C-c/view?usp=sharing) or download the `PotionOrPoison_Build` folder from this repository.  
+2. If you downloaded the `.zip` file from Google Drive, **extract** it to your preferred directory. If you downloaded the `PotionOrPoison_Build` folder directly from the repository, you can skip this step.  
 3. **Run** the `Potion or Poison.exe` file.  
 4. **Follow** the in-game instructions to mix potions, evaluate requests, and make life-or-death decisions.  
 
-### Option 2: Clone and Build in Unity  
-1. **Clone** this repository.  
-2. **Open** the project in Unity Hub. Ensure you have **Unity 6 (6000.0.19f1)** installed.  
+### Option 2: Build in Unity   
+1. **Download** the raw Unity project files from [Google Drive](https://drive.google.com/file/d/1e4Cq5ZpTG6FKoSErK3ci4fmNGXy-KagL/view?usp=sharing) and extract them.  
+2. **Open** the extracted project in Unity Hub. Ensure you have **Unity 6 (6000.0.19f1)** installed.  
 3. **Open the project** in Unity Editor and build the game:  
    - Navigate to `File > Build Settings`  
    - Select the appropriate platform (Windows, Mac, etc.)  
@@ -89,4 +89,4 @@ This game was a **collaborative effort**, and all credit goes to the talented te
 ## 💬 Connect with Us  
 If you have any questions, feedback, or just want to chat about game dev, feel free to reach out!  
 
-🌞 *May your potions always be potent, and your poisons ever so discreet...* ☠️🧪
+🔮 *May your potions always be potent, and your poisons ever so discreet...* ☠️🧪
